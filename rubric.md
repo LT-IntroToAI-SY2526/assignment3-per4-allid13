@@ -19,7 +19,7 @@ Remember: This assignment completes our movie chatbot system - focus on understa
 | query_loop Function | 1 | | |
 | **Creative Additions** | | | |
 | Database & Pattern Extensions | 3 | | |
-| **TOTAL** | **20** | | |
+| **TOTAL** | **20** | 0 | I don't see any changes pushed to github. Please email me once they are there for me to regrade.  10% off each day it isn't completed. |
 ---
 ## Action Functions (9 points)
 **Basic Movie Queries (5 points)**
