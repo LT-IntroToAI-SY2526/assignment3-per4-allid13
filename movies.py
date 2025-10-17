@@ -435,4 +435,17 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     ),
+    (
+        "Wall-e",
+        "Andrew Stanton",
+        2008,
+        [
+            "ben burtt",
+            "andrew stanton",
+            "elissa knight",
+            "jeff garlin",
+            "john ratzenberger",
+        ],
+    ),
 ]
+
